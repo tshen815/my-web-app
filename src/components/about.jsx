@@ -81,6 +81,23 @@ export default class About extends Component {
                 </div>
               </div>
             </div>
+            <div className="col-md-4 text-center animate-box">
+              <div className="services color-5">
+                <span className="icon">
+                  <i className="icon-data" />
+                </span>
+                <div className="desc">
+                  <h3>SEO</h3>
+                  <p>
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                    Minus voluptas accusamus inventore quam quia magni itaque
+                    saepe, repudiandae reprehenderit consectetur quibusdam
+                    deserunt eligendi, sit tempora in recusandae! Sed, facere
+                    neque?
+                  </p>
+                </div>
+              </div>
+            </div>
           </div>
         </section>
       </div>
